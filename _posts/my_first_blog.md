@@ -4,5 +4,4 @@ title: About
 ---
 # my first blog
 
-*hello blog *
-"为啥什么也没有"
+*hello blog*
